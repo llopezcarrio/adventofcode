@@ -40,7 +40,6 @@ for line in f:
         if safeReport == 1:
             break
 
-
         if position > totalLevels - 1:
             validatingLevels = False
         else:
