@@ -2,7 +2,7 @@ import puzzle_2_module
 import os
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(script_dir, "input2.txt")
+file_path = os.path.join(script_dir, "input.txt")
 
 f = open(file_path, "r")
 safeReports = 0

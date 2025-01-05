@@ -31,8 +31,6 @@ Determine which equations could possibly be true. What is their total calibratio
 
 Your puzzle answer was 2654749936343.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 The engineers seem concerned; the total calibration result you gave them is nowhere close to being within safety tolerances. Just then, you spot your mistake: some well-hidden elephants are holding a third type of operator.
 
@@ -46,3 +44,11 @@ Now, apart from the three equations that could be made true using only addition 
 Adding up all six test values (the three that could be made before using only + and * plus the new three that can now be made by also using ||) produces the new total calibration result of 11387.
 
 Using your new knowledge of elephant hiding spots, determine which equations could possibly be true. What is their total calibration result?
+
+Your puzzle answer was 124060392153684.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, all that is left is for you to admire your Advent calendar.
+
+If you still want to see it, you can get your puzzle input.

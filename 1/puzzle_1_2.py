@@ -1,6 +1,6 @@
 import puzzle_1_module
 
-listLocationsA, listLocationsB = puzzle_1_module.get_location_lists("input1.txt")
+listLocationsA, listLocationsB = puzzle_1_module.get_location_lists("input.txt")
 
 similarityScore = 0
 

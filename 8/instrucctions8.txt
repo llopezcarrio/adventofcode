@@ -113,3 +113,9 @@ The original example now has 34 antinodes, including the antinodes that appear o
 Calculate the impact of the signal using this updated model. How many unique locations within the bounds of the map contain an antinode?
 
 Your puzzle answer was 1064.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, all that is left is for you to admire your Advent calendar.
+
+If you still want to see it, you can get your puzzle input.

@@ -80,8 +80,6 @@ What is the total price of fencing all regions on your map?
 
 Your puzzle answer was 1451030.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 Fortunately, the Elves are trying to order so much fence that they qualify for a bulk discount!
 
@@ -134,3 +132,11 @@ A region of S plants with price 3 * 6 = 18.
 Adding these together produces its new total price of 1206.
 
 What is the new total price of fencing all regions on your map?
+
+Your puzzle answer was 859494.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, all that is left is for you to admire your Advent calendar.
+
+If you still want to see it, you can get your puzzle input.

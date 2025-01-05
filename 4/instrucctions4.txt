@@ -39,8 +39,6 @@ Take a look at the little Elf's word search. How many times does XMAS appear?
 
 Your puzzle answer was 2462.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 The Elf looks quizzically at you. Did you misunderstand the assignment?
 
@@ -66,3 +64,11 @@ M.M.M.M.M.
 In this example, an X-MAS appears 9 times.
 
 Flip the word search from the instructions back over to the word search side and try again. How many times does an X-MAS appear?
+
+Your puzzle answer was 1877.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, all that is left is for you to admire your Advent calendar.
+
+If you still want to see it, you can get your puzzle input.

@@ -47,8 +47,6 @@ Compact the amphipod's hard drive using the process he requested. What is the re
 
 Your puzzle answer was 6432869891895.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 Upon completion, two things immediately become clear. First, the disk definitely has a lot more contiguous free space, just like the amphipod hoped. Second, the computer is running much more slowly! Maybe introducing all of that file system fragmentation was a bad idea?
 
@@ -66,3 +64,11 @@ The first example from above now proceeds differently:
 The process of updating the filesystem checksum is the same; now, this example's checksum would be 2858.
 
 Start over, now compacting the amphipod's hard drive using this new method instead. What is the resulting filesystem checksum?
+
+Your puzzle answer was 6467290479134.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, all that is left is for you to admire your Advent calendar.
+
+If you still want to see it, you can get your puzzle input.
